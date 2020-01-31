@@ -2,6 +2,10 @@
 molsimp_catalysts/*.pdf
 molsimp_catalysts/*.png
 molsimp_catalysts/*.p
+machine_learning/*.p
+machine_learning/*.pdf
+machine_learning/*.xyz
+machine_learning/*.png
 =======
 *.pdf
 *.png
