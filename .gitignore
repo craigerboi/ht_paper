@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 molsimp_catalysts/*.pdf
 molsimp_catalysts/*.png
 molsimp_catalysts/*.p
+=======
+*.pdf
+*.png
+*.p
+>>>>>>> cc28a00ef75e936c46535ec423856faf8c542428
